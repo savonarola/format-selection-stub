@@ -2,16 +2,17 @@
 	"name": "format-selection-stub",
 	"displayName": "Format Selection Stub",
 	"publisher": "motonarola",
+	"icon": "icon.png",
 	"repository": {
 		"url": "https://github.com/savonarola/format-selection-stub"
 	},
 	"description": "Emulate format selection when format whole document only available",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.61.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
 	"activationEvents": [
 		"onCommand:format-selection-stub.formatSelection"
