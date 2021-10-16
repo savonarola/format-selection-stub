@@ -1,6 +1,10 @@
 {
 	"name": "format-selection-stub",
 	"displayName": "Format Selection Stub",
+	"publisher": "motonarola",
+	"repository": {
+		"url": "https://github.com/savonarola/format-selection-stub"
+	},
 	"description": "Emulate format selection when format whole document only available",
 	"version": "0.0.1",
 	"engines": {
